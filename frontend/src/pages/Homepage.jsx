@@ -96,7 +96,7 @@ export default function Homepage() {
 
       {/* Slideshow */}
       <section className="bg-black py-16">
-        <h2 className="text-4xl font-serif text-center text-red-600 mb-8">
+        <h2 className="text-3xl font-serif text-center text-red-600 mb-8">
           Our Delicious Dishes
         </h2>
         <div className="max-w-6xl mx-auto px-4">

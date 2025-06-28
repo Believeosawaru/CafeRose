@@ -18,7 +18,7 @@ export default function Header() {
           Contact
         </li>
       </ul>
-      <button className="md:hidden text-white focus:outline-none">
+      <button className="md:hidden text-white focus:outline-none hidden">
         <svg
           className="w-7 h-7"
           fill="none"
