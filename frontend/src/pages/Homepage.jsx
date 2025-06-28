@@ -71,7 +71,7 @@ export default function Homepage() {
       <section className="relative flex-grow min-h-screen">
         {/* Background Image */}
         <div
-          className="bg-center bg-cover absolute inset-0 opacity-50"
+          className="bg-center bg-cover absolute inset-0 opacity-40"
           style={{
             backgroundImage: `url(${hero})`,
           }}
