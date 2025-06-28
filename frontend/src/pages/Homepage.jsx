@@ -22,7 +22,7 @@ export default function Homepage() {
   const dishes = [
     {
       img: "https://cdn.pixabay.com/photo/2022/10/12/22/09/spaghetti-bolognese-7517639_1280.jpg",
-      name: "Spaghetti Bolognese",
+      name: "Spaghetti Bolognese.",
     },
     {
       img: "https://cdn.pixabay.com/photo/2023/05/28/14/13/ai-generated-8023787_640.jpg",
